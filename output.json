@@ -1,0 +1,125 @@
+[
+  {
+    "name": {
+      "firstName": "Sarah",
+      "lastName": "Smith"
+    },
+    "age": 28,
+    "address": {
+      "line1": "123 Main Street",
+      "line2": "Apt 4B",
+      "city": "New York",
+      "state": "NY"
+    },
+    "gender\r": "female\r"
+  },
+  {
+    "name": {
+      "firstName": "Michael",
+      "lastName": "Johnson"
+    },
+    "age": 45,
+    "address": {
+      "line1": "456 Oak Ave",
+      "line2": "Santa Monica",
+      "city": "CA",
+      "state": "male\r"
+    }
+  },
+  {
+    "name": {
+      "firstName": "Emily",
+      "lastName": "Davis"
+    },
+    "age": 32,
+    "address": {
+      "line1": "789 Elm St",
+      "line2": "Apt 3C",
+      "city": "Chicago",
+      "state": "IL"
+    },
+    "gender\r": "female\r"
+  },
+  {
+    "name": {
+      "firstName": "Daniel",
+      "lastName": "Williams"
+    },
+    "age": 50,
+    "address": {
+      "line1": "101 Park Plaza",
+      "line2": "Suite 120",
+      "city": "Dallas",
+      "state": "TX"
+    },
+    "gender\r": "male\r"
+  },
+  {
+    "name": {
+      "firstName": "James",
+      "lastName": "Brown"
+    },
+    "age": 22,
+    "address": {
+      "line1": "21 Jasmine Lane",
+      "line2": "Los Angeles",
+      "city": "CA",
+      "state": "male\r"
+    }
+  },
+  {
+    "name": {
+      "firstName": "Jessica",
+      "lastName": "Thomas"
+    },
+    "age": 30,
+    "address": {
+      "line1": "32 Spruce Street",
+      "line2": "Apt 2D",
+      "city": "Boston",
+      "state": "MA"
+    },
+    "gender\r": "female\r"
+  },
+  {
+    "name": {
+      "firstName": "Robert",
+      "lastName": "Anderson"
+    },
+    "age": 42,
+    "address": {
+      "line1": "567 Pine Drive",
+      "line2": "Denver",
+      "city": "CO",
+      "state": "male\r"
+    }
+  },
+  {
+    "name": {
+      "firstName": "Maria",
+      "lastName": "Garcia"
+    },
+    "age": 25,
+    "address": {
+      "line1": "890 Maple Lane",
+      "line2": "Apt 1E",
+      "city": "Seattle",
+      "state": "WA"
+    },
+    "gender\r": "female\r"
+  },
+  {
+    "name": {
+      "firstName": "David",
+      "lastName": "Martinez"
+    },
+    "age": 38,
+    "address": {
+      "line1": "111 Cedar Rd",
+      "line2": "Apt 3F",
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "gender\r": "male"
+  }
+]

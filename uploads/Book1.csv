@@ -1,0 +1,9 @@
+﻿name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender
+Michael,Johnson,45,456 Oak Ave,Santa Monica,CA,male
+Emily,Davis,32,789 Elm St,Apt 3C,Chicago,IL,female
+Daniel,Williams,50,101 Park Plaza,Suite 120,Dallas,TX,male
+James,Brown,22,21 Jasmine Lane,Los Angeles,CA,male
+Jessica,Thomas,30,32 Spruce Street,Apt 2D,Boston,MA,female
+Robert,Anderson,42,567 Pine Drive,Denver,CO,male
+Maria,Garcia,25,890 Maple Lane,Apt 1E,Seattle,WA,female
+David,Martinez,38,111 Cedar Rd,Apt 3F,Philadelphia,PA,male
