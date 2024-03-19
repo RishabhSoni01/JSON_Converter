@@ -1,6 +1,20 @@
 [
   {
     "name": {
+      "firstName": "Rohit",
+      "lastName": "Prasad"
+    },
+    "age": 35,
+    "address": {
+      "line1": "A-563 Rakshak Society",
+      "line2": "New Pune Road",
+      "city": "Pune",
+      "state": "Maharashtra"
+    },
+    "gender": "male"
+  },
+  {
+    "name": {
       "firstName": "Sarah",
       "lastName": "Smith"
     },
@@ -11,7 +25,7 @@
       "city": "New York",
       "state": "NY"
     },
-    "gender\r": "female\r"
+    "gender": "female"
   },
   {
     "name": {
@@ -23,7 +37,7 @@
       "line1": "456 Oak Ave",
       "line2": "Santa Monica",
       "city": "CA",
-      "state": "male\r"
+      "state": "male"
     }
   },
   {
@@ -38,7 +52,7 @@
       "city": "Chicago",
       "state": "IL"
     },
-    "gender\r": "female\r"
+    "gender": "female"
   },
   {
     "name": {
@@ -52,7 +66,7 @@
       "city": "Dallas",
       "state": "TX"
     },
-    "gender\r": "male\r"
+    "gender": "male"
   },
   {
     "name": {
@@ -64,7 +78,7 @@
       "line1": "21 Jasmine Lane",
       "line2": "Los Angeles",
       "city": "CA",
-      "state": "male\r"
+      "state": "male"
     }
   },
   {
@@ -79,7 +93,7 @@
       "city": "Boston",
       "state": "MA"
     },
-    "gender\r": "female\r"
+    "gender": "female"
   },
   {
     "name": {
@@ -91,7 +105,7 @@
       "line1": "567 Pine Drive",
       "line2": "Denver",
       "city": "CO",
-      "state": "male\r"
+      "state": "male"
     }
   },
   {
@@ -106,7 +120,7 @@
       "city": "Seattle",
       "state": "WA"
     },
-    "gender\r": "female\r"
+    "gender": "female"
   },
   {
     "name": {
@@ -120,6 +134,6 @@
       "city": "Philadelphia",
       "state": "PA"
     },
-    "gender\r": "male"
+    "gender": "male"
   }
 ]
